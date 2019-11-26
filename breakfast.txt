@@ -1,1 +1,4 @@
 Toast
+Cereal 
+Fruit
+Croissants
