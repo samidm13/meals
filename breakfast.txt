@@ -2,3 +2,4 @@ Toast
 Cereal 
 Fruit
 Croissants
+Eggs
